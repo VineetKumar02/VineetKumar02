@@ -37,8 +37,10 @@
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **Github Stats:**
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetkumar02&theme=dark" alt="vineetkumar02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetkumar02&theme=dark" alt="vineetkumar02" /></p>
 
-<p>&nbsp;<img right="center" src="https://github-readme-stats.vercel.app/api?username=vineetkumar02&show_icons=true&theme=radical" alt="vineetkumar02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetkumar02&show_icons=true&theme=radical&include_all_commits=true" alt="vineetkumar02" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=github_dark" alt="vineetkumar02" /></p>
+
+
