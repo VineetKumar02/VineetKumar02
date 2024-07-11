@@ -12,9 +12,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 
-- 🌱 I’m currently learning **React Native, Flutter**
-
-- 👨‍💻 All of my projects are available at [https://vineet-portfolio-site.netlify.app/](https://vineet-portfolio-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vineet-portfolio-site.toystack.dev/](https://vineet-portfolio-site.toystack.dev/)
 
 - 💬 Ask me about **Anything**
 
