@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Vineet%20Kumar%20Gupta&fontSize=30&fontAlignY=80&color=gradient&customColorList=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Vineet%20Kumar%20Gupta&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloWorld 👋, I'm Vineet Kumar Gupta" />
 
 <hr></hr>
 
 ![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-<h3>Hardworking professional with a motivated attitude and diverse skill set. I quickly adapt to new responsibilities and am enthusiastic about acquiring new knowledge and skills. Passionate about using my technical abilities to solve real-world problems, I thrive in dynamic environments that demand innovative solutions.</h3>
+**Hardworking professional with a motivated attitude and diverse skill set. I quickly adapt to new responsibilities and am enthusiastic about acquiring new knowledge and skills. Passionate about using my technical abilities to solve real-world problems, I thrive in dynamic environments that demand innovative solutions.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumar02&label=Profile%20views&color=0e75b6&style=plastic" alt="vineetkumar02" /> </p>
 
@@ -51,5 +51,7 @@
 ## ✍️ Random Dev Quote
 
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![Snake animation](https://github.com/vineetkumar02/vineetkumar02/blob/output/github-contribution-grid-snake.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/>
