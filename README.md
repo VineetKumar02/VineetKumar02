@@ -6,15 +6,19 @@
 
 **Hardworking professional with a motivated attitude and diverse skill set. I quickly adapt to new responsibilities and am enthusiastic about acquiring new knowledge and skills. Passionate about using my technical abilities to solve real-world problems, I thrive in dynamic environments that demand innovative solutions.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumar02&label=Profile%20views&color=0e75b6&style=plastic" alt="vineetkumar02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumar02&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 👨‍💻 All of my bio is available at [My Portfolio Site](https://vineet-portfolio-site.vercel.app)
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
+
+- 👨‍💻 Visit [My Portfolio Site](https://vineet-portfolio-site.vercel.app) for more details about me.
 - 📫 How to reach me **vineethero02@gmail.com**
 - 💬 Ask me about **Anything**
-- 🌱 I’m currently learning **How to survive 😂**
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤️ I Love writing code and learning new tools
 - ⚡ Fun fact **I think I'm funny 😅**
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
 
